@@ -120,7 +120,7 @@ html {
 	border-radius: inherit;
 	padding: 2.5rem 2rem;
 	max-width: 100%;
-	width: 48rem;
+	width: 40rem;
 }
 
 #main > .inner > header {
@@ -377,31 +377,19 @@ body.is-loading #main {
 	display: block;
 }
 
-#image03 a, #image03 span {
-	border-radius: 100%;
+#image07 img {
+	max-width: 100%;
+	width: auto;
 }
 
-#image03 img {
-	width: 8rem;
-	border-radius: 100%;
+#image08 img {
+	max-width: 100%;
+	width: auto;
 }
 
-#image01 a, #image01 span {
-	border-radius: 100%;
-}
-
-#image01 img {
-	width: 8rem;
-	border-radius: 100%;
-}
-
-#image05 a, #image05 span {
-	border-radius: 100%;
-}
-
-#image05 img {
-	width: 8rem;
-	border-radius: 100%;
+#image09 img {
+	max-width: 100%;
+	width: auto;
 }
 
 #image02 a, #image02 span {
@@ -414,22 +402,14 @@ body.is-loading #main {
 	border-radius: 100%;
 }
 
-#image06 a, #image06 span {
-	border-radius: 100%;
+#image10 img {
+	max-width: 100%;
+	width: auto;
 }
 
-#image06 img {
-	width: 8rem;
-	border-radius: 100%;
-}
-
-#image04 a, #image04 span {
-	border-radius: 100%;
-}
-
-#image04 img {
-	width: 8rem;
-	border-radius: 100%;
+#logo img {
+	max-width: 100%;
+	width: auto;
 }
 
 h1 br + br, h2 br + br, h3 br + br, p br + br {
@@ -468,6 +448,14 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-size: 1em;
 	line-height: 1.625;
 	font-weight: 400;
+}
+
+#text04 a {
+	text-decoration: underline;
+}
+
+#text04 a:hover {
+	text-decoration: none;
 }
 
 #text05 br + br {
@@ -518,6 +506,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #text08 {
+	text-align: left;
 	color: #585B29;
 	font-family: 'Quicksand', sans-serif;
 	font-size: 1em;
@@ -560,6 +549,14 @@ h1 .li, h2 .li, h3 .li, p .li {
 	font-weight: 400;
 }
 
+#text11 a {
+	text-decoration: underline;
+}
+
+#text11 a:hover {
+	text-decoration: none;
+}
+
 #text03 br + br {
 	margin-top: 0.825rem;
 }
@@ -580,6 +577,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #text06 {
+	text-align: left;
 	color: #585B29;
 	font-family: 'Quicksand', sans-serif;
 	font-size: 1em;
@@ -909,26 +907,6 @@ hr:before {
 	
 	#main > .inner > .active > .full:first-child {
 		margin-top: -2.5rem !important;
-	}
-	
-	#image03 img {
-		width: 8rem;
-	}
-	
-	#image01 img {
-		width: 8rem;
-	}
-	
-	#image05 img {
-		width: 8rem;
-	}
-	
-	#image06 img {
-		width: 8rem;
-	}
-	
-	#image04 img {
-		width: 8rem;
 	}
 	
 	#text01 {
