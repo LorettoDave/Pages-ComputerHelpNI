@@ -474,7 +474,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 }
 
 #text02 br + br {
-	margin-top: 0.675rem;
+	margin-top: 0.75rem;
 }
 
 #text02 {
@@ -482,7 +482,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 	color: #585B29;
 	font-family: 'Quicksand', sans-serif;
 	font-size: 1em;
-	line-height: 1.125;
+	line-height: 1.25;
 	font-weight: 400;
 }
 
@@ -934,7 +934,7 @@ hr:before {
 		letter-spacing: 0rem;
 		width: 100%;
 		font-size: 1em;
-		line-height: 1.125;
+		line-height: 1.25;
 	}
 	
 	#text07 {
