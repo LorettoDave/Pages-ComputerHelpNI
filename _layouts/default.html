@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+	<body class="is-loading">
+		<div id="wrapper">
+			<div id="main">
+				<div class="inner">
+  {%- include header.html -%}
+  {%- include navbuttons.html -%}
+  
+  {{ content }}
+ 
+  {%- include footer.html -%}
+				</div>
+			</div>
+		</div>
+		<script src="/assets/main.js"></script>
+	</body>
+</html>

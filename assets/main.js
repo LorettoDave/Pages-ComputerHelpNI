@@ -231,11 +231,29 @@
 	
 				},
 				sections = {
+					'home': {
+						events: {
+							onopen: [
+								function() { 
+									gtag('config', 'UA-137164796-1', { 'page_path': '/' });
+								},
+							],
+						},
+					},
 					'services': {
 						events: {
 							onopen: [
 								function() { 
 									gtag('config', 'UA-137164796-1', { 'page_path': '/#services' });
+								},
+							],
+						},
+					},
+					'blog': {
+						events: {
+							onopen: [
+								function() { 
+									gtag('config', 'UA-137164796-1', { 'page_path': '/#blog' });
 								},
 							],
 						},
@@ -249,29 +267,11 @@
 							],
 						},
 					},
-					'contact': {
-						events: {
-							onopen: [
-								function() { 
-									gtag('config', 'UA-137164796-1', { 'page_path': '/#contact' });
-								},
-							],
-						},
-					},
 					'privacy': {
 						events: {
 							onopen: [
 								function() { 
 									gtag('config', 'UA-137164796-1', { 'page_path': '/#privacy' });
-								},
-							],
-						},
-					},
-					'home': {
-						events: {
-							onopen: [
-								function() { 
-									gtag('config', 'UA-137164796-1', { 'page_path': '/' });
 								},
 							],
 						},
