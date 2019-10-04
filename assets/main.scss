@@ -3,13 +3,14 @@
 
 @import "minima";
 
-html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}body{line-height:1;}ol,ul{list-style:none;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}table{border-collapse:collapse;border-spacing:0;}body{-webkit-text-size-adjust:none}mark{background-color:transparent;color:inherit}input::-moz-focus-inner{border:0;padding:0}input[type="text"],input[type="email"],select,textarea{-moz-appearance:none;-webkit-appearance:none;-ms-appearance:none;appearance:none}
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}body{line-height:1;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}table{border-collapse:collapse;border-spacing:0;}body{-webkit-text-size-adjust:none}mark{background-color:transparent;color:inherit}input::-moz-focus-inner{border:0;padding:0}input[type="text"],input[type="email"],select,textarea{-moz-appearance:none;-webkit-appearance:none;-ms-appearance:none;appearance:none}
 
 *, *:before, *:after {
 	box-sizing: border-box;
 }
 
 body {
+	font-family: 'Quicksand', sans-serif;
 	min-width: 320px;
 	min-height: 100vh;
 	line-height: 1.0;
@@ -310,6 +311,10 @@ body.is-loading #main {
 		transform: rotate(360deg);
 	}
 }
+h6 {
+	font-size: 0.8em;
+	color: grey;
+}
 
 .deferred:before {
 	content: '';
@@ -425,7 +430,7 @@ h1 br + br, h2 br + br, h3 br + br, p br + br {
 h1 .li, h2 .li, h3 .li, p .li {
 	display: list-item;
 	padding-left: 0.5em;
-	margin: 0.75em 0 0 1em;
+	margin: 0.75em 0 0 1.5em;
 }
 
 
@@ -444,9 +449,15 @@ a:hover {
 	font-size: 1em;
 	line-height: 1.625;
 	font-weight: 400;
+	margin: 0 0 10pt 0;
 }
 
-#blogList p, li{
+#blogList li, .blogPost li {
+	display: list-item;
+	margin: 0 0 0 1.5em;
+}
+
+#blogList p, li {
 	text-align: left;
 	color: #585B29;
 	font-family: 'Quicksand', sans-serif;
@@ -454,6 +465,9 @@ a:hover {
 	line-height: 1.625;
 	font-weight: 400;
 }
+
+
+
 
 p {
 	text-align: left;
