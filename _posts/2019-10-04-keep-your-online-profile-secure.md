@@ -17,4 +17,3 @@ I now use a unique, strong password at each site where I have an account. I coul
 * Use strong passwords: include a mix of upper-and lower-case letters, numbers, and special characters, or use a longer 'pass phrase.'
 * Keep your passwords confidential.
 * Use a password manager to make it easy!
-

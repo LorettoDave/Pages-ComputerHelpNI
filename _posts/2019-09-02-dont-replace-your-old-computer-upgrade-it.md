@@ -8,7 +8,7 @@ A slow computer is usually caused by a slow hard drive. From £125, a Windows PC
 
 Until recently, nearly every computer was built using a standard hard drive which uses magnetic heads to read and write data on spinning metal platters. Such hard drives can read data at a maximum rate of 120 megabytes per second (MB/s) under ideal conditions, and that rate is usually much slower under normal conditions. 
 
-<span class="ImageRight">[![alt text](/assets/images/ssd-hdd_thumb.png "Internal view of SSD and HDD")](/assets/images/ssd-hdd_full.png)</span>
+<span class="ImageRight">[![Alt](/assets/images/ssd-hdd_thumb.png "Internal view of SSD and HDD")](/assets/images/ssd-hdd_full.png)</span>
 
 A solid-state drive has no moving parts; it’s essentially a large amount of special computer memory that remembers its contents even when the computer is turned off. These drives are very fast, achieving data read rates of around 500 MB/s—four or five times faster than standard hard drives— under normal conditions. 
 
