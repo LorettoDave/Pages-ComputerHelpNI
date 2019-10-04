@@ -2,6 +2,7 @@
 layout: post
 title:  "Keep your online profile secure"
 tags: Security
+author: Dave Rand
 ---
 If you've used the Internet for long, your personal information—name, email address, possibly your password—has probably been included in at least one data breach. If so, the email address and password exposed in the breach are no longer safe to use *anywhere*. Trust me, I learned this the hard way.
 
@@ -11,16 +12,9 @@ Then one day I received a message from Tesco, confirming a purchase that I hadn'
 
 I now use a unique, strong password at each site where I have an account. I could never remember all of these passwords, so I use a password manager to keep track of them all. There are many such tool available today: LastPass, 1Password, Keeper, True Key, etc. If you’d like help choosing a password manager or have any other security questions or concerns, I’d love to help.
 
-Protecting passwords—a checklist:
+**Protecting passwords—a checklist:**
 * Create a unique password for each website or account.
 * Use strong passwords: include a mix of upper-and lower-case letters, numbers, and special characters, or use a longer 'pass phrase.'
 * Keep your passwords confidential.
 * Use a password manager to make it easy!
 
-
-<br />
-<br />
-<br />
-<br />
-
-###### Image by <a href="https://pixabay.com/users/AbsolutVision-6158753/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2781614">Gino Crescoli</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2781614">Pixabay</a> ######
