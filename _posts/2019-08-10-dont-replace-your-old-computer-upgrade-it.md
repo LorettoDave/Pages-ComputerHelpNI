@@ -10,6 +10,6 @@ Until recently, nearly every computer was built using a standard hard drive whic
 
 <span class="ImageRight">[![Alt](/assets/images/ssd-hdd_thumb.png "Internal view of SSD and HDD")](/assets/images/ssd-hdd_full.png)</span>
 
-A solid-state drive has no moving parts; it’s essentially a large amount of special computer memory that remembers its contents even when the computer is turned off. These drives are very fast, achieving data read rates of around 500 MB/s—four or five times faster than standard hard drives— under normal conditions. 
+A solid-state drive has no moving parts; it’s essentially a large amount of special computer memory that remembers its contents even when the computer is turned off. These drives are very fast, achieving data read rates of around 500 MB/s—four or five times faster than standard hard drives— under normal conditions.  [Watch our YouTube video comparing the performance of an SSD to that of a standard hard drive.](https://www.youtube.com/watch?v=D6ZxxWtILfw)
 
 In most cases, we can upgrade a computer to an SSD in less than two hours. To see if your PC can be upgraded, call or email Computer Help Northern Ireland. We’ll be happy to discuss your options and provide a quote free of charge. 
