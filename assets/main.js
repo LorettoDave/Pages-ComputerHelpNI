@@ -276,6 +276,15 @@
 							],
 						},
 					},
+					'covid-19': {
+						events: {
+							onopen: [
+								function() { 
+									gtag('config', 'UA-137164796-1', { 'page_path': '/#covid-19' });
+								},
+							],
+						},
+					},
 				};
 	
 			// Expose doNext, doPrevious.
