@@ -4,7 +4,7 @@ title:  "New office in Newcastle"
 tags: Support
 author: Dave Rand
 ---
-After working fromour home for over 18 months, last week we officially opened our new office space at [6 Downs Road in Newcastle](https://goo.gl/maps/TDFDFobs76Crqiq78). Being in the town and close to the sea is lovely, and we hope our location will make it more convenient for customers.
+After working from our home for over 18 months, last week we officially opened our new office space at [6 Downs Road in Newcastle](https://goo.gl/maps/TDFDFobs76Crqiq78). Being in the town and close to the sea is lovely, and we hope our location will make it more convenient for customers.
 
 <!-- The grid: four columns -->
 <div class="row">
