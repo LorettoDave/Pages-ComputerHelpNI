@@ -28,7 +28,7 @@ After working from our home for over 18 months, last week we officially opened o
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 
   <!-- Expanded image -->
-  <img id="expandedImg" style="width:100%">
+  <img id="expandedImg" style="width:100%" src="/assets/images/office01.JPG">
 
   <!-- Image text -->
   <div id="imgtext"></div>
