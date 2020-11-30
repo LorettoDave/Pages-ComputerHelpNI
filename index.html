@@ -4,16 +4,42 @@ title: Computer Help Northern Ireland
 number: 0
 ---
 					<section id="home-section">
-						<h1><span>Professional, experienced</span><br /><span>computer support</span><br /><span>in County Down</span></h1>
-						<p class="center">
-						<span><a href="./#services">Help getting started</a></span><br />
-						<span><a href="./#services">Help making the most of your investment</a></span><br />
-						<span><a href="./#services">Help if things go wrong</a></span><br />
-						<span><a href="./#services">Help with home and office networks</a></span><br />
+						<h1>
+						<span>PC and Mac repairs,</span><br />
+						<span>upgrades, and support</span>
+						</h1>
+
+						<hr/>
+
+						<h1 class="post-title p-name">COVID-19 Update</h1>
+						<p>During periods of lock-down, we are open by appointment only to drop off and collect equipment. Please phone or email before visiting, and we will enable you to safely and securely leave or collect your equipment without entering the office.</p>
+
+						<hr/>
+
+						<div class="post h-entry">
+						  {% for post in site.posts limit: 1 %}
+
+							  <header class="post-header">
+								<h1 class="post-title p-name" itemprop="name headline">{{ post.title | escape }}</h1>
+								<p class="post-meta">
+								  <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+									{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+									{{ post.date | date: date_format }}
+								  </time>
+								  {%- if post.author -%}
+									• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ post.author }}</span></span>
+								  {%- endif -%}</p>
+							  </header>
+
+							  <div class="blogPost" itemprop="articleBody"><p>
+								{{ post.content }}
+							  </p></div>
+							  
+						  {% endfor %}
 						<br />
 						<span><strong><a href="tel:028-4321-8180">028-4321-8180</a></strong></span>
 						<br /><span><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%68%65%6c%70%40%63%6f%6d%70%75%74%65%72%68%65%6c%70%6e%69%2e%63%6f%2e%75%6b">help@computerhelpni.co.uk</a></span>
-						</p>
+						</div>
 					</section>
 
 					<section id="services-section">

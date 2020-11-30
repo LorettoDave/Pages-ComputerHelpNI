@@ -4,7 +4,7 @@ title:  "New office in Newcastle"
 tags: Support
 author: Dave Rand
 ---
-After working from our home for over 18 months, last week we officially opened our new office space at [6 Downs Road in Newcastle](https://goo.gl/maps/TDFDFobs76Crqiq78). Being in the town and close to the sea is lovely, and we hope our location will make it more convenient for customers.
+<p>After working from our home for over 18 months, last week we officially opened our new office space at <a href="https://g.page/computer-help-ni?share">6 Downs Road in Newcastle</a>. Being in the town and close to the sea is lovely, and we hope our location will make it more convenient for customers.</p>
 
 <!-- The grid: four columns -->
 <div class="row">
@@ -34,4 +34,4 @@ After working from our home for over 18 months, last week we officially opened o
   <div id="imgtext"></div>
 </div>
 
-Now that we're settled in and ready for business, stop in or give us a call to discuss your computer issues; we're always happy to help.
+<p>Now that we're settled in and ready for business, stop in or give us a call to discuss your computer issues; we're always happy to help.</p>
