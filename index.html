@@ -18,7 +18,7 @@ number: 0
 
 						<div class="post h-entry">
 						  {% assign sorted-posts = site.posts | where: "categories","Office" %}
-						  {% for post in site.posts limit: 1 %}
+						  {% for post in sorted-posts limit: 1 %}
 
 							  <header class="post-header">
 								<h1 class="post-title p-name" itemprop="name headline">{{ post.title | escape }}</h1>
