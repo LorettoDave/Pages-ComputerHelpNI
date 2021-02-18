@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AbilityNet offers free technology support"
-tags: Support
+categories: Support
 author: Dave Rand
 ---
 As a registered charity [AbilityNet](https://www.abilitynet.org.uk/) exists to change the lives of older people and people with a disability by helping them to use digital technology. They are supported by IBM and Microsoft.

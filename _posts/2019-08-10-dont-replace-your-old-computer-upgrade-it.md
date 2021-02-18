@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Don't replace your old computer, upgrade it!"
-tags: [Performance, Upgrade, SSD]
+categories: [Performance, Upgrade, SSD]
 author: Dave Rand
 ---
 A slow computer is usually caused by a slow hard drive. From £105, a Windows PC with a 500GB drive can be updated to run significantly faster by upgrading to a solid-state drive (SSD). 

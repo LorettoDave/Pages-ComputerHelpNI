@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Keep your online profile secure"
-tags: Security
+categories: Security
 author: Dave Rand
 ---
 If you've used the Internet for long, your personal information—name, email address, possibly your password—has probably been included in at least one data breach. If so, the email address and password exposed in the breach are no longer safe to use *anywhere*. Trust me, I learned this the hard way.

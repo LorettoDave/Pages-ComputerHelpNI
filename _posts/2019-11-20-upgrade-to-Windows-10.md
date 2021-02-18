@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Upgrade your old computer to Windows 10"
-tags: [Performance, Upgrade]
+categories: [Performance, Upgrade]
 author: Dave Rand
 ---
 Microsoft Windows 10 runs well on most PCs or laptops built during the past 10 years—usually *much better* than Windows 7 or 8/8.1 does. It also has excellent security features built-in, making it possible to ditch those third-party antivirus packages while still protecting your computer from infections. With a solid-state drive and at least 2GB of RAM, most any computer will run well on Windows 10. (For details about solid-state drives, see our blog post [Don't replace your old computer, upgrade it!]({% post_url 2019-08-10-dont-replace-your-old-computer-upgrade-it %}))

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tips for byuying a new laptop"
-tags: Support
+categories: Support
 author: Dave Rand
 ---
 People often ask for advice about which laptop is best. There is no easy answer to this question, but I can help to narrow down the choices based on a few factors.
@@ -10,7 +10,7 @@ All computers have a few things in common, so we can use these components when c
 
 CPU / processor
 ---------------
-Nearly every laptop sold today has a CPU made by either Intel or AMD. Intel CPUs are usually called a 'Core-i_Something_', such as a Core-i3, i5, i7, or i9, and AMD CPUs have names like Athlon or Ryzen 3, 5, or 9. CPU speeds vary considerably, but one of the most significant differences among CPUs is 'cores' and 'thread' count.
+Nearly every laptop sold today has a CPU made by either Intel or AMD. Intel CPUs are usually called a 'Core-i _Something_', such as a Core-i3, i5, i7, or i9, and AMD CPUs have names like Athlon or Ryzen 3, 5, or 9. CPU speeds vary considerably, but one of the most significant differences among CPUs is 'cores' and 'thread' count.
 
 Today's consumer-grade CPUs have anywhere from two to 16 cores and can work on between two and 32 threads at any given time. When comparing cores and threads, more is better. That is, a CPU that contains four cores and can process eight threads (sometimes shown as 'Cores/Threads: 4/8') is better than a Core/Thread value of 2/4 or even 4/4.
 

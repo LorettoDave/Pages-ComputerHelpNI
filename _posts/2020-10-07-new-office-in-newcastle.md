@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New office in Newcastle"
-tags: Office
+categories: Office
 author: Dave Rand
 ---
 <p>After working from our home for over 18 months, last week we officially opened our new office space at <a href="https://g.page/computer-help-ni?share">6 Downs Road in Newcastle</a>. Being in the town and close to the sea is lovely, and we hope our location will make it more convenient for customers.</p>

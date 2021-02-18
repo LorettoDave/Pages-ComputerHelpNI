@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How attackers use Microsoft Office"
-tags: Security
+categories: Security
 author: Dave Rand
 ---
 Protecting a Microsoft Word, Excel, or other Office file with a password encrypts the contents of the file. This prevents opening the file without the password or viewing its contents directly. It also prevents security tools from scanning the file for viruses or malicious code.

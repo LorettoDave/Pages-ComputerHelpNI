@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The padlock doesn't mean a site is safe"
-tags: Security
+categories: Security
 author: Dave Rand
 ---
 Most web browsers show a padlock in the address bar when you're securely connected to a website. This means the information sent between your browser and the web server is encrypted, so eavesdroppers are unable to read passwords, payment details, or any other sensitive information that might be sent.
