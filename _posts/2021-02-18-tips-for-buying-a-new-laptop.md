@@ -14,7 +14,7 @@ Nearly every laptop sold today has a CPU made by either Intel or AMD. Intel CPUs
 
 Today's consumer-grade CPUs have anywhere from two to 16 cores and can work on between two and 32 threads at any given time. When comparing cores and threads, more is better. That is, a CPU that contains four cores and can process eight threads (sometimes shown as 'Cores/Threads: 4/8') is better than a Core/Thread value of 2/4 or even 4/4.
 
-**Rule of thumb:** at least 4/4
+**Rule of thumb:** core/thread count of at _least_ 4/4; 4/8 will be noticibly faster
 
 SSD / storage / drive
 ---------------------

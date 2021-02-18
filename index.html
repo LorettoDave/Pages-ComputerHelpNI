@@ -17,6 +17,7 @@ number: 0
 						<hr/>
 
 						<div class="post h-entry">
+						  {% assign sorted-posts = site.posts | where: "categories","Office" %}
 						  {% for post in site.posts limit: 1 %}
 
 							  <header class="post-header">
