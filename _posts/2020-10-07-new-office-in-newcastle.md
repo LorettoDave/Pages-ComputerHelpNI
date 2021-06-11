@@ -28,7 +28,7 @@ author: Dave Rand
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 
   <!-- Expanded image -->
-  <img id="expandedImg" style="width:100%" src="/assets/images/office01.JPG">
+  <img id="expandedImg" style="width:100%" alt="Exterior" src="/assets/images/office01.JPG">
 
   <!-- Image text -->
   <div id="imgtext"></div>
