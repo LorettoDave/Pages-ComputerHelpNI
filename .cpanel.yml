@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - /bin/rm -r /home/compqcmm/staging_html/*
-    - /bin/cp -rT /home/compqcmm/git_content/_site /home/compqcmm/staging_html
+    - /bin/cp -rT . /home/compqcmm/staging_html
