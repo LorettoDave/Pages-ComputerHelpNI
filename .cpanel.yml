@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/compqcmm/staging_html/
+    - /bin/rm -r $DEPLOYPATH
+    - /bin/cp -rT ./_site $DEPLOYPATH
