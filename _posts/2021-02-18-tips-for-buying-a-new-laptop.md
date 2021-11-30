@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tips for byuying a new laptop"
-categories: Support
+categories: Homepage Support
 author: Dave Rand
 ---
 People often ask for advice about which laptop is best. There is no easy answer to this question, but I can help to narrow down the choices based on a few factors.
