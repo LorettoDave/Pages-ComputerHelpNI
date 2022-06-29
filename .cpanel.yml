@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - /bin/rm -r /home/compute4/public_html/*
-    - /bin/cp -rT /home/compute4/Pages-ComputerHelpNI/_site /home/compute4/public_html
+    - /bin/cp -rT /home/compute4/repositories/Pages-ComputerHelpNI/_site /home/compute4/public_html
