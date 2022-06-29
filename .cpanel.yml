@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - /bin/rm -r /home/compqcmm/public_html/*
-    - /bin/cp -rT /home/compqcmm/git_content/_site /home/compqcmm/public_html
+    - /bin/rm -r /home/compute4/public_html/*
+    - /bin/cp -rT /home/compute4/Pages-ComputerHelpNI/_site /home/compute4/public_html
